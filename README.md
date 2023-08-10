@@ -1,1 +1,1 @@
-# assets
+# assets for public projects
